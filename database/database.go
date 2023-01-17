@@ -5,7 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/nbuddharaju/samplego/models"
+	"samplego/models"
+
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
